@@ -1,5 +1,5 @@
-# dgx_spark_flash-attn_2.8.0.post2
-The complied whl of flash-attn_2.8.0.post2  for dgx_spark, please see the release button of the right side in the repo
+# dgx_spark_flash-attn_evo2
+The complied whl of flash-attn_2.8.0.post2  for dgx_spark to install evo2, please see the release button of the right side in the repo
 
 ## How it was compiled
 
